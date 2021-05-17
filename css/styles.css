@@ -1,0 +1,164 @@
+body{
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+  color: #40514E;
+
+
+}
+h1{
+
+font-family: 'Cookie', cursive;
+font-size: 5.625rem;
+margin-bottom: 0;
+color:#66BFBF;
+line-height: 2;
+
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  margin-top:0;
+  color:#66BFBF;
+  padding-bottom: 10px;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color:#11999E;
+
+}
+
+p{
+  line-height: 2;
+}
+
+hr{
+  width:3%;
+  border-style: dotted none none none;
+  border-width: 5px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border-color: #c9d6df
+}
+
+span{
+  text-decoration: underline;
+}
+
+.top-container{
+  background-color:#EAF6F6;
+  padding-top: 100px;
+  position: relative;
+}
+
+.middle-container{
+  margin: 100px 0;
+
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding:30px 0 20px;
+}
+
+
+.developer{
+ font-weight:bold;
+}
+
+
+.bottom-cloud{
+  position:absolute;
+  bottom:300px;
+  left:300px;
+}
+
+.top-cloud{
+  position: absolute;
+  right:300px;
+  top:50px;
+}
+
+.profile-desc{
+  width:30%;
+  margin:auto;
+}
+.skill{
+  padding-bottom: 20px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  padding-bottom: 50px;
+
+}
+
+.skill-design-img{
+  width:25%;
+  float:left;
+  margin-right: 30px;
+}
+
+.skill-garden-img{
+  width:25%;
+  float:right;
+  margin-right: 30px;
+}
+
+.contact-me{
+  width:50%;
+  margin:50px auto 50px auto;
+}
+.contact-desc{
+  width:50%;
+  margin: 40px auto 40px;
+}
+
+
+.btn {
+   -webkit-border-radius: 7px;
+   -moz-border-radius: 7px;
+   border-radius: 7px;
+   color: #FFFFFF;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 22px;
+   font-weight:600;
+   padding: 11px;
+   background-color: #66BFBF;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-top: 50px;
+}
+
+.footer-link{
+  color:#11999E;
+  font-family: 'Montserrat', sans-serif;
+  font-weight:bolder;
+  text-decoration:none;
+  margin-left: 40px;
+  padding: 20px 0;
+  font-size: 1.17em;
+}
+
+.footer-link:hover{
+  color:#48466d;
+}
+
+
+.copyright{
+  color:#EAF6F6;
+  font-size: 0.75rem;
+  margin-top: 20px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+
+}
